@@ -1,3 +1,3 @@
 # portfolio
-This is my Protfolio.<br/>
-Author- Amit Kumar Dhuriya
+<h2>This is my Protfolio.</h2>h2><br/>
+<span style="color:red;">Author- Amit Kumar Dhuriya</span>
